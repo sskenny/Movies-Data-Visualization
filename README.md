@@ -1,6 +1,6 @@
 # Movies-Data-Visualization
 ## Summary 
-I analyzed a data set of movies from 1884 - 2018 and created visualizations using Python. For some of the visualizations, I removed movies from before 1990 since most movies in the dataset were produced from the 1990s onwards. I chose to use this dataset to create visualizations because I was most interested in trends of genres of movies that are watched over time. The important columns I used were revenue, budget, title, date, and profit, which I calculated by subtracting budget from revenue. The dataset is too large to upload to the github repository so I included the links to the datasets at the bottom of this readme
+I analyzed a data set of movies from 1884 - 2018 and created visualizations using Python. For some of the visualizations, I removed movies from before 1990 since most movies in the dataset were produced from the 1990s onwards. I chose to use this dataset to create visualizations because I was most interested in trends of genres of movies that are watched over time. The important columns I used were revenue, budget, title, date, and profit, which I calculated by subtracting budget from revenue. The dataset is too large to upload to the github repository so I included the links to the datasets at the bottom of this readme.
 
 ## Insights
 
